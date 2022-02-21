@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e1394d36cc976040b58b8de3f72d117, type: 3}
+  m_Name: DocumentConfig
+  m_EditorClassIdentifier: 
+  isEditMode: 1
+  iconsPath: Assets/DocumentTool/Scripts/Icons
+  documentRootPath: Assets/DocumentTool/Documents
+  documentCollectPath: "Assets/DocumentTool/IndependentSpace/\u6536\u85CF"
+  recycleBinPath: "Assets/DocumentTool/IndependentSpace/\u56DE\u6536\u7AD9"
+  titleSize: 20
+  titleColor: {r: 0.022031069, g: 1, b: 0, a: 1}
+  contentSize: 14
+  contentColor: {r: 1, g: 1, b: 1, a: 1}
